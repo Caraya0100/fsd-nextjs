@@ -2,7 +2,7 @@ import { v4 as uuidv4 } from 'uuid'
 
 import { CmsModel } from '@shared/cms'
 
-import { getPostUrl } from '@entities/posts'
+import { getPostUrl } from '@entities/post'
 
 import { Post, PostReadMore } from '@features/get-post'
 
